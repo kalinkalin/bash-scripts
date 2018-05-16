@@ -1,7 +1,7 @@
 ## Bash scripts
 <br>
 
-This repository contains a few bash scripts. **If the scripts dont want to execute, you have to make it executable** by
+This repository contains a few bash scripts. **If the scripts dont want to execute, you have to make them executable** by
 typing command  ```chmod u+x ./script_name.sh``` 
 <br>
 
