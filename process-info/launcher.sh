@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo ./skrypt2.sh
+sudo ./ps_info.sh
