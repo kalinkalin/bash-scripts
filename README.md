@@ -1,4 +1,8 @@
 ```html
+<html>
+ <head>
+ </head>
+ <body>
  <h2>Bash scripts</h2>
 <br>
 <p>This repository contains a few bash scripts. <b>If the scripts dont want to execute, you have to make it executable</b> by
@@ -8,5 +12,7 @@ typing command <span style="font-family: 'Lucida Console';">chmod u+x ./script_n
 <li><b>process-info</b> - script displaying info about systems current processes, very similar to ps</li>
 <li><b>to-lower</b> - script changing letter case in current directory to lower</li>
 </ul>
+ </body>
+</html>
 ```
 
