@@ -1,3 +1,3 @@
 <h2>SYSINFO</h2>
 
-```ojoj```
+![](https://preview.ibb.co/cjeWvd/sysinfo.png)
