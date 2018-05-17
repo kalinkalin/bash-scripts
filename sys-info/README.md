@@ -1,3 +1,3 @@
 <h2>SYSINFO</h2>
 
-![](https://preview.ibb.co/cjeWvd/sysinfo.png)
+![programme usage in ubuntu 16.04 TTY](https://preview.ibb.co/cjeWvd/sysinfo.png)
