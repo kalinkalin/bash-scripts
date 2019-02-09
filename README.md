@@ -1,7 +1,7 @@
 ## Bash scripts
 <br>
 
-This repository contains bash scripts with some sytsem utilities. **If the scripts dont want to execute, you have to make them executable** by
+This repository contains bash scripts with some system utilities. **If the scripts dont want to execute, you have to make them executable** by
 typing command  ```chmod u+x ./script_name.sh``` 
 <br>
 
